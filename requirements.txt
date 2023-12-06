@@ -1,0 +1,27 @@
+#torch
+transformers==3.4.0
+sentencepiece
+protobuf==3.19.1
+wandb==0.12.9
+accelerate==0.4.0
+easydict==1.9
+
+# Data Preprocess
+# recognizers-text-suite==1.0.2a2
+# python-Levenshtein==0.12.2
+# stanfordnlp==0.2.0
+# jieba
+
+# Inference
+# onnxruntime==1.6.0
+# onnxruntime_gpu==1.6.0
+# onnxruntime_tools
+
+# http sever
+tornado
+pytorch-crf
+datasets==1.18.3
+scipy
+sklearn
+
+regex
