@@ -5,7 +5,8 @@ In this paper, we propose a simple yet effective counterfactual example generati
 
 **DTE** aims to detect unanswerable and ambiguous spans in user question and give explainations to end-users by probing grounding knowledge from pretrained language models.
 
-![Model Architecture](pictures/dte-model.png)
+
+<img src="pictures/dte-model.png" align="middle" width="90%">
 
 ## ⚡️ Environment
 config your local environment.
